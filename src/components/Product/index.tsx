@@ -1,6 +1,7 @@
 import React from 'react';
 import Tshirt from '../../assets/tshirt.png'
 import SellerInfo from '../SellerInfo/index';
+import ProductAction from '../ProductAction/index';
 
 import { Container, Row, Gallery, Column, Panel, Section, Description  } from './styles';
 
@@ -21,6 +22,7 @@ const Product: React.FC = () => {
         </Column>
 
         <Column>
+        <ProductAction />
         <SellerInfo />
         <WarrantySection />
         <WarrantySection />
