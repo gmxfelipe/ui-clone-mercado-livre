@@ -4,6 +4,20 @@
 	🚧  UI-Clone 🚀 Interface Mercado Livre  🚧
 </h4>
 
+## Installation
+
+OS X & Linux:
+
+```sh
+npm install --save
+```
+
+Windows:
+
+```sh
+npm install
+```
+
 <strong>Tela 1 </strong>
 
 
