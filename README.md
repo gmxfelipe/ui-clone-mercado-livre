@@ -39,6 +39,6 @@ npm install
 Nessa single page foi recriada a interface do Mercado Livre (UI-Clone).</P> 
 <P> As tecnologias usadas para o desenvolvimento desse projeto foram:</p>
 
- - <a href="https://pt-br.reactjs.org/">ReactJS 🚀</a>
- - <a href="https://styled-components.com/">Style-Components 🚀</a> 
- - <a href="https://www.typescriptlang.org/">TypeScript 🚀</a> 
+ - <a href="https://pt-br.reactjs.org/">⚛ ReactJS </a>
+ - <a href="https://styled-components.com/">💅 Style-Components</a> 
+ - <a href="https://www.typescriptlang.org/">🚀 TypeScript</a> 
