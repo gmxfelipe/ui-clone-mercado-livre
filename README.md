@@ -15,7 +15,7 @@ npm install --save
 Windows:
 
 ```sh
-npm install
+npm install --save
 ```
 
 <strong>Tela 1 </strong>
