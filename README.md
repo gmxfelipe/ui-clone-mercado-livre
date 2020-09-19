@@ -18,7 +18,7 @@ Windows:
 npm install --save
 ```
 
-<strong>Tela 1 </strong>
+<strong>- Tela 1 </strong>
 
 
 <p align="center">
@@ -26,7 +26,7 @@ npm install --save
 </p>
 
 
-<strong>Tela 2 </strong>
+<strong>- Tela 2 </strong>
 
 
 <p align="center">
