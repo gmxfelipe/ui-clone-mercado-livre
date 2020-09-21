@@ -9,13 +9,13 @@
 OS X & Linux:
 
 ```sh
-npm install --save
+- npm install --save
 ```
 
 Windows:
 
 ```sh
-npm install --save
+- npm install --save
 ```
 
 <strong>- Tela 1 </strong>
