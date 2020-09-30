@@ -10,12 +10,14 @@ OS X & Linux:
 
 ```sh
 - npm install --save
+- npm start
 ```
 
 Windows:
 
 ```sh
 - npm install --save
+- npm start
 ```
 
 <strong><h3>- Tela 1 </h3></strong>
