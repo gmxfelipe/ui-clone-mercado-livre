@@ -25,7 +25,7 @@ Windows:
 <img src="https://uploaddeimagens.com.br/images/002/883/039/original/interface.1.JPG?1600344678">
 </p>
 
-
+<hr />
 <strong>- Tela 2 </strong>
 
 
