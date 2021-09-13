@@ -1,5 +1,5 @@
 
-<p align="center"> <img src="https://olist.com/wp-content/uploads/2018/04/marketplace-mercado-livre-3.png"></p>
+<p align="center"> <img src="https://growth-mkt-site-wp-uploads.s3.amazonaws.com/uploads/2018/04/marketplace-mercado-livre-3.png"></p>
 <h4 align="center"> 
 	🚧  UI-Clone Interface Mercado Livre  🚧
 </h4>
@@ -44,3 +44,7 @@ Nessa single page foi recriada a interface do Mercado Livre (UI-Clone).</P>
  - <a href="https://pt-br.reactjs.org/">⚛ ReactJS </a>
  - <a href="https://styled-components.com/">💅 Style-Components</a> 
  - <a href="https://www.typescriptlang.org/">🚀 TypeScript</a> 
+
+<h4 align="center">
+  <em>&lt;/&gt;</em> by <a href="https://github.com/gmxfelipe" target="_blank">Felipe Augusto Gomes</a>
+</h4>
