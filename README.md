@@ -20,16 +20,9 @@ Windows:
 - npm start
 ```
 
-<strong><h3>- Tela 1 </h3></strong>
-
-
 <p align="center">
 <img src="https://uploaddeimagens.com.br/images/002/883/039/original/interface.1.JPG?1600344678">
 </p>
-
-<hr />
-<strong><h3>- Tela 2</h3></strong>
-
 
 <p align="center">
 <img src="https://uploaddeimagens.com.br/images/002/883/041/original/interface.2.JPG?1600344727">
